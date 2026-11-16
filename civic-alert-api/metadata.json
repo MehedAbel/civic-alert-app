@@ -1,0 +1,6 @@
+{
+  "name": "CivicAlert - ASP.NET Core 10 & Spring Boot Migration Studio",
+  "description": "Civic reporting platform refactored from Java Spring Boot to C# ASP.NET Core 10 with live interactive API workbench, full architectural breakdown, and complete source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
